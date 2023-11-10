@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  list-style: none;
+}
+
+html::-webkit-scrollbar{
+  width: 1px;
+}
+
+html::-webkit-slider-thumb{
+  background: #ff0000;
+}
+
+html::-webkit-scrollbar-track{
+  background: #000;
+}

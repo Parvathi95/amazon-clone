@@ -1,0 +1,18 @@
+.Cart{
+    flex: 1 0 auto;
+    height: max-content;
+    padding: 20px;
+    display: flex;
+}
+
+.Cart .CartAd{
+    margin-bottom: 12px;
+    width: 100%;
+}
+
+.CartEmptyImg{
+    height: 250px;
+    width: 350px;
+    object-fit: contain;
+    margin: 10px auto;
+}
